@@ -13,17 +13,19 @@
 - [Library Management System Frontend](https://github.com/Jithma-Wickramarachchi/library-management-system-frontend.git)
 - [TIN Registration System Frontend](https://github.com/Jithma-Wickramarachchi/tin-registration-system-frontend.git)
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="25" height="25" /> React
-- coming soon ;)
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="next" width="25" height="25" /> Next.js
+-  [Clothify E-commerce shopping website Frontend](https://github.com/Jithma-Wickramarachchi/clothify-frontend.git)
+
 ##
 ## Back-end Technologies
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" width="25" height="25"/> Sprint Boot
+- [Clothify E-Commerce Online Shopping Website](https://github.com/Jithma-Wickramarachchi/clothify-backend.git)
 - [Library Management System Backend](https://github.com/Jithma-Wickramarachchi/library-management-system.git)
 - [TIN Registration System Backend](https://github.com/Jithma-Wickramarachchi/tin-registration-system.git)
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="springboot" width="25" height="25"/> Node.js 
-- coming soon ;)
+- working on it...
 
 ##
 ## Database Management Systems
